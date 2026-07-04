@@ -1,9 +1,7 @@
 {
   "latest_version": "2.1.2",
-  "title": "SlideGuard 已是最新版本",
-  "message": "当前版本暂无强制更新。",
-  "download_url": "通过网盘分享的文件：SlideGuard
-链接: https://pan.baidu.com/s/1dWy5-0NUS5_RLSJoEPC8hg 提取码: h6jw 
---来自百度网盘超级会员v5的分享",
+  "title": "SlideGuard 有新版本",
+  "message": "检测到新版 2.1.2，建议更新。网盘提取码：h6jw",
+  "download_url": "https://pan.baidu.com/s/1dly5-ONUS5_RLSJoEPC8hg?pwd=h6jw",
   "force_update": false
 }
